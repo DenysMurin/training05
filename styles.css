@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  /* background-color: #0093e9; */
+  background-image: url(./img/IMG_20190528_191105.jpg);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  font-style: 62px;
+  padding: 10px 30px;
+  background-color: white;
+  mix-blend-mode: screen;
+}
